@@ -1,6 +1,8 @@
 
 body {
     background-color: rgb(200,200,200);
+    background-image: url("http://65.media.tumblr.com/65b6e0cf31027deac526f68b0ac9f3bf/tumblr_inline_mwbrwk3YAj1qkc0d3.png");
+    background-repeat: repeat;
     color: rgb(0,0,0);
     font-family: "Space Mono", sans-serif;
     text-align: center;
